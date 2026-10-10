@@ -8,7 +8,7 @@ Hey there! I'm a self-taught developer with a passion for building functional, s
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [tusharanand517@gmail.com](mailto:tusharanand517@gmail.com)
-* 🚀  I'm currently working on [SocialAIXI](http://social-ai-xi.vercel.app/)
+* 🚀  I'm currently working on ASimplify
 * 🧠  I'm learning AI and ML
 * 🤝  I'm open to collaborating on AI and Web Projectss
 * ⚡  I love physics, development and business
